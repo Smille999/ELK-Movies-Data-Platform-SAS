@@ -30,7 +30,7 @@ services:
     container_name: logstash
     volumes:
       - ./logstash/pipeline/logstash.conf:/usr/share/logstash/pipeline/logstash.conf:ro
-      - ./DATA:/data:ro
+      - ./data:/mnt/data:ro
     networks:
       - elk_network
     depends_on:
