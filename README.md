@@ -1,16 +1,16 @@
-# ?? ELK Movies Data Platform - SAS
+# ELK Movies Data Platform - SAS
 
-Bienvenue sur notre projet collaboratif de centralisation et d'analyse de données cinématographiques, propulsé par la stack ELK (Elasticsearch, Logstash, Kibana).
+Bienvenue sur notre projet collaboratif de centralisation et d'analyse de donnÃ©es cinÃ©matographiques, propulsÃ© par la stack ELK (Elasticsearch, Logstash, Kibana).
 
-## ?? Documentation du projet
+## Documentation du projet
 
-Toute la documentation a été découpée de manière claire et modulaire. Cliquez sur les liens ci-dessous pour y accéder :
+Toute la documentation a Ã©tÃ© dÃ©coupÃ©e de maniÃ¨re claire et modulaire. Cliquez sur les liens ci-dessous pour y accÃ©der :
 
-* ?? [Runbook & Guide d'Installation](docs/runbook.md)
-* ?? [Dictionnaire de données (Mapping)](docs/data_dictionary.md)
-* ?? [Nettoyage des données (Pipeline Logstash)](docs/data_cleaning.md)
-* ?? [Gestion de projet & Méthodologie](docs/project_management.md)
-* ?? [Notes de Planning Poker](docs/planning_poker.md)
+*  [Runbook & Guide d'Installation](docs/runbook.md)
+*  [Dictionnaire de donnÃ©es (Mapping)](docs/data_dictionary.md)
+*  [Nettoyage des donnÃ©es (Pipeline Logstash)](docs/data_cleaning.md)
+*  [Gestion de projet & MÃ©thodologie](docs/project_management.md)
+*  [Notes de Planning Poker](docs/planning_poker.md)
 
 ---
-*Projet réalisé par Arnold, Sonia et Sofiane.*  # ELK-Movies-Data-Platform-SAS
+*Projet rÃ©alisÃ© par Arnold, Sonia et Sofiane.*  # ELK-Movies-Data-Platform-SAS
